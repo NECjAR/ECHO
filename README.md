@@ -20,8 +20,8 @@
 See www.necjar.com for details.
 
 <p align="center">
-  <a href="https://necjar.com/echo">
-    <img src="https://necjar.com/j/materials/icons/icon-qnk.jpg" alt="QnK" width="auto" height="auto" />
+  <a href="https://necjar.com/qingsandkueens">
+    <img src="https://necjar.com/icons/qnk.jpg" alt="QnK" width="auto" height="auto" />
   </a>
 </p>
 
@@ -32,10 +32,6 @@ Musetta (Мюзетта).
 _For more examples and usage, please refer to the [Wiki](https://wiki.necjar.com/Qings_and_Kueens)._
 
 ## Release History
-* 2020.2
-    * Victoria Garcia-Bernal leaves projects
-* 2019.12
-    * Victoria Garcia-Bernal joins the project as a main character
 * 2019.1
     * ADD: J.exe
 
@@ -52,15 +48,15 @@ See the [open issues](https://github.com/NECjAR/MUSE/issues) for a list of propo
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/NECjAR/ECHO.svg?style=for-the-badge
-[contributors-url]: https://github.com/NECjAR/ECHO/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/NECjAR/ECHO.svg?style=for-the-badge
-[forks-url]: https://github.com/NECjAR/ECHO/network/members
-[stars-shield]: https://img.shields.io/github/stars/NECjAR/ECHO.svg?style=for-the-badge
-[stars-url]: https://github.com/NECjAR/ECHO/stargazers
-[issues-shield]: https://img.shields.io/github/issues/NECjAR/ECHO.svg?style=for-the-badge
-[issues-url]: https://github.com/NECjAR/ECHO/issues
-[license-shield]: https://img.shields.io/github/license/NECjAR/ECHO.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/NECjAR/MUSETTA.svg?style=for-the-badge
+[contributors-url]: https://github.com/NECjAR/MUSETTA/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/NECjAR/MUSETTA.svg?style=for-the-badge
+[forks-url]: https://github.com/NECjAR/MUSETTA/network/members
+[stars-shield]: https://img.shields.io/github/stars/NECjAR/MUSETTA.svg?style=for-the-badge
+[stars-url]: https://github.com/NECjAR/MUSETTA/stargazers
+[issues-shield]: https://img.shields.io/github/issues/NECjAR/MUSETTA.svg?style=for-the-badge
+[issues-url]: https://github.com/NECjAR/MUSETTA/issues
+[license-shield]: https://img.shields.io/github/license/NECjAR/MUSETTA.svg?style=for-the-badge
 [license-url]: https://github.com/NECjAR/ECHO/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/Kadae
